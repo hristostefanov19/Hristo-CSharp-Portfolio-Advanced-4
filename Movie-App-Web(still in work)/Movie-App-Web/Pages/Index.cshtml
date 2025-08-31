@@ -1,0 +1,81 @@
+﻿@page
+@model MovieApp.Pages.IndexModel
+@inject Microsoft.AspNetCore.Http.IHttpContextAccessor HttpContextAccessor
+@{
+    var username = HttpContextAccessor.HttpContext.Session.GetString("Username");
+    if (string.IsNullOrEmpty(username))
+    {
+        Response.Redirect("/Login");
+    }
+}
+
+<div class="container mt-4">
+    <h2>Welcome, @username!</h2>
+    <a class="btn btn-danger mb-3" href="/Logout">Logout</a>
+
+    <input id="searchMovie" class="form-control mb-3" placeholder="Search for a movie..." />
+    <div id="results" class="row"></div>
+
+    <h3>Your Favorites</h3>
+    <ul id="favoritesList" class="list-group">
+        @foreach (var movie in Model.Favorites)
+        {
+            <li class="list-group-item d-flex justify-content-between align-items-center">
+                @movie
+                <button class="btn btn-sm btn-danger" onclick="removeFavorite('@movie')">Remove</button>
+            </li>
+        }
+    </ul>
+</div>
+
+<script>
+    async function searchMovies() {
+        const query = document.getElementById("searchMovie").value;
+        if (!query) return;
+
+        const res = await fetch(`/Index?handler=Search&query=${query}`);
+        const data = await res.json();
+
+        const resultsDiv = document.getElementById("results");
+        resultsDiv.innerHTML = "";
+
+        if (data.Search) {
+            data.Search.forEach(movie => {
+                const card = document.createElement("div");
+                card.className = "col-md-3 mb-3";
+                card.innerHTML = `
+                    <div class="card h-100">
+                        <img src="${movie.Poster}" class="card-img-top" />
+                        <div class="card-body">
+                            <h5 class="card-title">${movie.Title}</h5>
+                            <button class="btn btn-success btn-sm" onclick="addFavorite('${movie.Title}')">Add to Favorites</button>
+                            <button class="btn btn-danger btn-sm" onclick="removeFavorite('${movie.Title}')">Remove</button>
+                        </div>
+                    </div>`;
+                resultsDiv.appendChild(card);
+            });
+        }
+    }
+
+    document.getElementById("searchMovie").addEventListener("input", searchMovies);
+
+    async function addFavorite(title) {
+        console.log("Adding favorite: " + title);
+        await fetch('/Index?handler=AddFavorite', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ title })
+        });
+        location.reload();
+    }
+
+    async function removeFavorite(title) {
+        console.log("Removing favorite: " + title);
+        await fetch('/Index?handler=RemoveFavorite', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ title })
+        });
+        location.reload();
+    }
+</script>

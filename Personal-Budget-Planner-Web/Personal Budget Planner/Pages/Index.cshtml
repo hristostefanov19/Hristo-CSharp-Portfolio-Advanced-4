@@ -1,0 +1,117 @@
+﻿@page
+@model PersonalBudgetPlanner.Pages.IndexModel
+@{
+    var username = HttpContext.Session.GetString("Username");
+    if (string.IsNullOrEmpty(username))
+    {
+        Response.Redirect("/Login");
+    }
+}
+
+<div class="row">
+    <div class="col-12 mb-3">
+        <h2>Hello, @username!</h2>
+    </div>
+
+    <div class="col-md-4">
+        <div class="card mb-3">
+            <div class="card-body">
+                <h5 class="card-title">Add Transaction</h5>
+                <form method="post">
+                    <div class="mb-2">
+                        <label class="form-label">Type</label>
+                        <select asp-for="Input.Type" class="form-select">
+                            <option>Income</option>
+                            <option>Expense</option>
+                        </select>
+                    </div>
+                    <div class="mb-2">
+                        <label class="form-label">Category</label>
+                        <input asp-for="Input.Category" class="form-control" required />
+                    </div>
+                    <div class="mb-2">
+                        <label class="form-label">Description</label>
+                        <input asp-for="Input.Description" class="form-control" />
+                    </div>
+                    <div class="mb-2">
+                        <label class="form-label">Amount</label>
+                        <input asp-for="Input.Amount" type="number" step="0.01" min="0" class="form-control" required />
+                    </div>
+                    <div class="mb-2">
+                        <label class="form-label">Date</label>
+                        <input asp-for="Input.Date" type="date" class="form-control" required />
+                    </div>
+                    <button class="btn btn-primary">Add</button>
+                </form>
+            </div>
+        </div>
+
+        <div class="card">
+            <div class="card-body">
+                <h5 class="card-title">Summary</h5>
+                <p><strong>Income:</strong> @Model.Income.ToString("0.00")</p>
+                <p><strong>Expense:</strong> @Model.Expense.ToString("0.00")</p>
+                <p><strong>Balance:</strong> @Model.Balance.ToString("0.00")</p>
+                <canvas id="summaryChart"></canvas>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-md-8">
+        <div class="card">
+            <div class="card-body">
+                <h5 class="card-title">Transactions</h5>
+                <table class="table table-striped">
+                    <thead>
+                        <tr>
+                            <th>Date</th>
+                            <th>Type</th>
+                            <th>Category</th>
+                            <th>Description</th>
+                            <th class="text-end">Amount</th>
+                            <th></th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var t in Model.Transactions)
+                        {
+                            <tr>
+                                <td>@t.Date.ToString("yyyy-MM-dd")</td>
+                                <td>@t.Type</td>
+                                <td>@t.Category</td>
+                                <td>@t.Description</td>
+                                <td class="text-end">@t.Amount.ToString("0.00")</td>
+                                <td class="text-end">
+                                    <form method="post" asp-page-handler="Delete" asp-route-id="@t.Id">
+                                        <button class="btn btn-sm btn-outline-danger">Delete</button>
+                                    </form>
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <script>
+        const ctx = document.getElementById('summaryChart');
+        if (ctx) {
+            const chart = new Chart(ctx, {
+                type: 'doughnut',
+                data: {
+                    labels: ['Income', 'Expense'],
+                    datasets: [{
+                        data: [@Model.Income, @Model.Expense]
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    plugins: { legend: { position: 'bottom' } }
+                }
+            });
+        }
+    </script>
+}

@@ -1,0 +1,68 @@
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Movie-App-Web\Movie-App-Web\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Movie-App-Web\Movie-App-Web\bin\Debug\net8.0\appsettings.json
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Movie-App-Web\Movie-App-Web\bin\Debug\net8.0\Movie-App-Web.staticwebassets.runtime.json
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Movie-App-Web\Movie-App-Web\bin\Debug\net8.0\Movie-App-Web.staticwebassets.endpoints.json
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Movie-App-Web\Movie-App-Web\bin\Debug\net8.0\Movie-App-Web.exe
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Movie-App-Web\Movie-App-Web\bin\Debug\net8.0\Movie-App-Web.deps.json
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Movie-App-Web\Movie-App-Web\bin\Debug\net8.0\Movie-App-Web.runtimeconfig.json
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Movie-App-Web\Movie-App-Web\bin\Debug\net8.0\Movie-App-Web.dll
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Movie-App-Web\Movie-App-Web\bin\Debug\net8.0\Movie-App-Web.pdb
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Movie-App-Web\Movie-App-Web\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Movie-App-Web\Movie-App-Web\obj\Debug\net8.0\Movie-App-Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Movie-App-Web\Movie-App-Web\obj\Debug\net8.0\Movie-App-Web.AssemblyInfoInputs.cache
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Movie-App-Web\Movie-App-Web\obj\Debug\net8.0\Movie-App-Web.AssemblyInfo.cs
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Movie-App-Web\Movie-App-Web\obj\Debug\net8.0\Movie-App-Web.csproj.CoreCompileInputs.cache
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Movie-App-Web\Movie-App-Web\obj\Debug\net8.0\Movie-App-Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Movie-App-Web\Movie-App-Web\obj\Debug\net8.0\Movie-App-Web.RazorAssemblyInfo.cache
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Movie-App-Web\Movie-App-Web\obj\Debug\net8.0\Movie-App-Web.RazorAssemblyInfo.cs
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Movie-App-Web\Movie-App-Web\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Movie-App-Web\Movie-App-Web\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Movie-App-Web\Movie-App-Web\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Movie-App-Web\Movie-App-Web\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Movie-App-Web\Movie-App-Web\obj\Debug\net8.0\scopedcss\bundle\Movie-App-Web.styles.css
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Movie-App-Web\Movie-App-Web\obj\Debug\net8.0\scopedcss\projectbundle\Movie-App-Web.bundle.scp.css
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Movie-App-Web\Movie-App-Web\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Movie-App-Web\Movie-App-Web\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Movie-App-Web\Movie-App-Web\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Movie-App-Web\Movie-App-Web\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Movie-App-Web\Movie-App-Web\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Movie-App-Web\Movie-App-Web\obj\Debug\net8.0\Movie-App-Web.dll
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Movie-App-Web\Movie-App-Web\obj\Debug\net8.0\refint\Movie-App-Web.dll
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Movie-App-Web\Movie-App-Web\obj\Debug\net8.0\Movie-App-Web.pdb
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Movie-App-Web\Movie-App-Web\obj\Debug\net8.0\Movie-App-Web.genruntimeconfig.cache
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Movie-App-Web\Movie-App-Web\obj\Debug\net8.0\ref\Movie-App-Web.dll
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Movie-App-Web\Movie-App-Web\bin\Debug\net8.0\App_Data\users.json
+C:\Users\hrist\OneDrive\Hristo-CSharp-Portfolio-Advanced-4\Movie-App-Web(still in work)\Movie-App-Web\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\hrist\OneDrive\Hristo-CSharp-Portfolio-Advanced-4\Movie-App-Web(still in work)\Movie-App-Web\bin\Debug\net8.0\appsettings.json
+C:\Users\hrist\OneDrive\Hristo-CSharp-Portfolio-Advanced-4\Movie-App-Web(still in work)\Movie-App-Web\bin\Debug\net8.0\App_Data\users.json
+C:\Users\hrist\OneDrive\Hristo-CSharp-Portfolio-Advanced-4\Movie-App-Web(still in work)\Movie-App-Web\bin\Debug\net8.0\Movie-App-Web.staticwebassets.endpoints.json
+C:\Users\hrist\OneDrive\Hristo-CSharp-Portfolio-Advanced-4\Movie-App-Web(still in work)\Movie-App-Web\bin\Debug\net8.0\Movie-App-Web.staticwebassets.runtime.json
+C:\Users\hrist\OneDrive\Hristo-CSharp-Portfolio-Advanced-4\Movie-App-Web(still in work)\Movie-App-Web\bin\Debug\net8.0\Movie-App-Web.exe
+C:\Users\hrist\OneDrive\Hristo-CSharp-Portfolio-Advanced-4\Movie-App-Web(still in work)\Movie-App-Web\bin\Debug\net8.0\Movie-App-Web.deps.json
+C:\Users\hrist\OneDrive\Hristo-CSharp-Portfolio-Advanced-4\Movie-App-Web(still in work)\Movie-App-Web\bin\Debug\net8.0\Movie-App-Web.runtimeconfig.json
+C:\Users\hrist\OneDrive\Hristo-CSharp-Portfolio-Advanced-4\Movie-App-Web(still in work)\Movie-App-Web\bin\Debug\net8.0\Movie-App-Web.dll
+C:\Users\hrist\OneDrive\Hristo-CSharp-Portfolio-Advanced-4\Movie-App-Web(still in work)\Movie-App-Web\bin\Debug\net8.0\Movie-App-Web.pdb
+C:\Users\hrist\OneDrive\Hristo-CSharp-Portfolio-Advanced-4\Movie-App-Web(still in work)\Movie-App-Web\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\hrist\OneDrive\Hristo-CSharp-Portfolio-Advanced-4\Movie-App-Web(still in work)\Movie-App-Web\obj\Debug\net8.0\Movie-App-Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hrist\OneDrive\Hristo-CSharp-Portfolio-Advanced-4\Movie-App-Web(still in work)\Movie-App-Web\obj\Debug\net8.0\Movie-App-Web.AssemblyInfoInputs.cache
+C:\Users\hrist\OneDrive\Hristo-CSharp-Portfolio-Advanced-4\Movie-App-Web(still in work)\Movie-App-Web\obj\Debug\net8.0\Movie-App-Web.AssemblyInfo.cs
+C:\Users\hrist\OneDrive\Hristo-CSharp-Portfolio-Advanced-4\Movie-App-Web(still in work)\Movie-App-Web\obj\Debug\net8.0\Movie-App-Web.csproj.CoreCompileInputs.cache
+C:\Users\hrist\OneDrive\Hristo-CSharp-Portfolio-Advanced-4\Movie-App-Web(still in work)\Movie-App-Web\obj\Debug\net8.0\Movie-App-Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hrist\OneDrive\Hristo-CSharp-Portfolio-Advanced-4\Movie-App-Web(still in work)\Movie-App-Web\obj\Debug\net8.0\Movie-App-Web.RazorAssemblyInfo.cache
+C:\Users\hrist\OneDrive\Hristo-CSharp-Portfolio-Advanced-4\Movie-App-Web(still in work)\Movie-App-Web\obj\Debug\net8.0\Movie-App-Web.RazorAssemblyInfo.cs
+C:\Users\hrist\OneDrive\Hristo-CSharp-Portfolio-Advanced-4\Movie-App-Web(still in work)\Movie-App-Web\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\hrist\OneDrive\Hristo-CSharp-Portfolio-Advanced-4\Movie-App-Web(still in work)\Movie-App-Web\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\hrist\OneDrive\Hristo-CSharp-Portfolio-Advanced-4\Movie-App-Web(still in work)\Movie-App-Web\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\hrist\OneDrive\Hristo-CSharp-Portfolio-Advanced-4\Movie-App-Web(still in work)\Movie-App-Web\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\hrist\OneDrive\Hristo-CSharp-Portfolio-Advanced-4\Movie-App-Web(still in work)\Movie-App-Web\obj\Debug\net8.0\scopedcss\bundle\Movie-App-Web.styles.css
+C:\Users\hrist\OneDrive\Hristo-CSharp-Portfolio-Advanced-4\Movie-App-Web(still in work)\Movie-App-Web\obj\Debug\net8.0\scopedcss\projectbundle\Movie-App-Web.bundle.scp.css
+C:\Users\hrist\OneDrive\Hristo-CSharp-Portfolio-Advanced-4\Movie-App-Web(still in work)\Movie-App-Web\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\hrist\OneDrive\Hristo-CSharp-Portfolio-Advanced-4\Movie-App-Web(still in work)\Movie-App-Web\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\hrist\OneDrive\Hristo-CSharp-Portfolio-Advanced-4\Movie-App-Web(still in work)\Movie-App-Web\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\hrist\OneDrive\Hristo-CSharp-Portfolio-Advanced-4\Movie-App-Web(still in work)\Movie-App-Web\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\hrist\OneDrive\Hristo-CSharp-Portfolio-Advanced-4\Movie-App-Web(still in work)\Movie-App-Web\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\hrist\OneDrive\Hristo-CSharp-Portfolio-Advanced-4\Movie-App-Web(still in work)\Movie-App-Web\obj\Debug\net8.0\Movie-App-Web.dll
+C:\Users\hrist\OneDrive\Hristo-CSharp-Portfolio-Advanced-4\Movie-App-Web(still in work)\Movie-App-Web\obj\Debug\net8.0\refint\Movie-App-Web.dll
+C:\Users\hrist\OneDrive\Hristo-CSharp-Portfolio-Advanced-4\Movie-App-Web(still in work)\Movie-App-Web\obj\Debug\net8.0\Movie-App-Web.pdb
+C:\Users\hrist\OneDrive\Hristo-CSharp-Portfolio-Advanced-4\Movie-App-Web(still in work)\Movie-App-Web\obj\Debug\net8.0\Movie-App-Web.genruntimeconfig.cache
+C:\Users\hrist\OneDrive\Hristo-CSharp-Portfolio-Advanced-4\Movie-App-Web(still in work)\Movie-App-Web\obj\Debug\net8.0\ref\Movie-App-Web.dll

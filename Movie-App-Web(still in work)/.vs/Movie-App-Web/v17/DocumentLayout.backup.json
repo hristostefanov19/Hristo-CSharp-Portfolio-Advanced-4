@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hrist\\OneDrive\\Hristo-CSharp-Portfolio-Advanced-4\\Movie-App-Web(still in work)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{21E91D98-B67B-4465-B15A-D7743563EFE8}|Movie-App-Web\\Movie-App-Web.csproj|c:\\users\\hrist\\onedrive\\hristo-csharp-portfolio-advanced-4\\movie-app-web(still in work)\\movie-app-web\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21E91D98-B67B-4465-B15A-D7743563EFE8}|Movie-App-Web\\Movie-App-Web.csproj|solutionrelative:movie-app-web\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21E91D98-B67B-4465-B15A-D7743563EFE8}|Movie-App-Web\\Movie-App-Web.csproj|c:\\users\\hrist\\onedrive\\hristo-csharp-portfolio-advanced-4\\movie-app-web(still in work)\\movie-app-web\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21E91D98-B67B-4465-B15A-D7743563EFE8}|Movie-App-Web\\Movie-App-Web.csproj|solutionrelative:movie-app-web\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hrist\\OneDrive\\Hristo-CSharp-Portfolio-Advanced-4\\Movie-App-Web(still in work)\\Movie-App-Web\\bin\\Debug\\net8.0\\App_Data\\users.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Movie-App-Web\\bin\\Debug\\net8.0\\App_Data\\users.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21E91D98-B67B-4465-B15A-D7743563EFE8}|Movie-App-Web\\Movie-App-Web.csproj|c:\\users\\hrist\\onedrive\\hristo-csharp-portfolio-advanced-4\\movie-app-web(still in work)\\movie-app-web\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21E91D98-B67B-4465-B15A-D7743563EFE8}|Movie-App-Web\\Movie-App-Web.csproj|solutionrelative:movie-app-web\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21E91D98-B67B-4465-B15A-D7743563EFE8}|Movie-App-Web\\Movie-App-Web.csproj|c:\\users\\hrist\\onedrive\\hristo-csharp-portfolio-advanced-4\\movie-app-web(still in work)\\movie-app-web\\pages\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21E91D98-B67B-4465-B15A-D7743563EFE8}|Movie-App-Web\\Movie-App-Web.csproj|solutionrelative:movie-app-web\\pages\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21E91D98-B67B-4465-B15A-D7743563EFE8}|Movie-App-Web\\Movie-App-Web.csproj|c:\\users\\hrist\\onedrive\\hristo-csharp-portfolio-advanced-4\\movie-app-web(still in work)\\movie-app-web\\pages\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21E91D98-B67B-4465-B15A-D7743563EFE8}|Movie-App-Web\\Movie-App-Web.csproj|solutionrelative:movie-app-web\\pages\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21E91D98-B67B-4465-B15A-D7743563EFE8}|Movie-App-Web\\Movie-App-Web.csproj|c:\\users\\hrist\\onedrive\\hristo-csharp-portfolio-advanced-4\\movie-app-web(still in work)\\movie-app-web\\pages\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21E91D98-B67B-4465-B15A-D7743563EFE8}|Movie-App-Web\\Movie-App-Web.csproj|solutionrelative:movie-app-web\\pages\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21E91D98-B67B-4465-B15A-D7743563EFE8}|Movie-App-Web\\Movie-App-Web.csproj|c:\\users\\hrist\\onedrive\\hristo-csharp-portfolio-advanced-4\\movie-app-web(still in work)\\movie-app-web\\pages\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21E91D98-B67B-4465-B15A-D7743563EFE8}|Movie-App-Web\\Movie-App-Web.csproj|solutionrelative:movie-app-web\\pages\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21E91D98-B67B-4465-B15A-D7743563EFE8}|Movie-App-Web\\Movie-App-Web.csproj|c:\\users\\hrist\\onedrive\\hristo-csharp-portfolio-advanced-4\\movie-app-web(still in work)\\movie-app-web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21E91D98-B67B-4465-B15A-D7743563EFE8}|Movie-App-Web\\Movie-App-Web.csproj|solutionrelative:movie-app-web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21E91D98-B67B-4465-B15A-D7743563EFE8}|Movie-App-Web\\Movie-App-Web.csproj|c:\\users\\hrist\\onedrive\\hristo-csharp-portfolio-advanced-4\\movie-app-web(still in work)\\movie-app-web\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21E91D98-B67B-4465-B15A-D7743563EFE8}|Movie-App-Web\\Movie-App-Web.csproj|solutionrelative:movie-app-web\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21E91D98-B67B-4465-B15A-D7743563EFE8}|Movie-App-Web\\Movie-App-Web.csproj|c:\\users\\hrist\\onedrive\\hristo-csharp-portfolio-advanced-4\\movie-app-web(still in work)\\movie-app-web\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21E91D98-B67B-4465-B15A-D7743563EFE8}|Movie-App-Web\\Movie-App-Web.csproj|solutionrelative:movie-app-web\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21E91D98-B67B-4465-B15A-D7743563EFE8}|Movie-App-Web\\Movie-App-Web.csproj|c:\\users\\hrist\\onedrive\\hristo-csharp-portfolio-advanced-4\\movie-app-web(still in work)\\movie-app-web\\pages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21E91D98-B67B-4465-B15A-D7743563EFE8}|Movie-App-Web\\Movie-App-Web.csproj|solutionrelative:movie-app-web\\pages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "users.json",
+              "DocumentMoniker": "C:\\Users\\hrist\\OneDrive\\Hristo-CSharp-Portfolio-Advanced-4\\Movie-App-Web(still in work)\\Movie-App-Web\\bin\\Debug\\net8.0\\App_Data\\users.json",
+              "RelativeDocumentMoniker": "Movie-App-Web\\bin\\Debug\\net8.0\\App_Data\\users.json",
+              "ToolTip": "C:\\Users\\hrist\\OneDrive\\Hristo-CSharp-Portfolio-Advanced-4\\Movie-App-Web(still in work)\\Movie-App-Web\\bin\\Debug\\net8.0\\App_Data\\users.json",
+              "RelativeToolTip": "Movie-App-Web\\bin\\Debug\\net8.0\\App_Data\\users.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-31T11:10:30.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Logout.cshtml",
+              "DocumentMoniker": "C:\\Users\\hrist\\OneDrive\\Hristo-CSharp-Portfolio-Advanced-4\\Movie-App-Web(still in work)\\Movie-App-Web\\Pages\\Logout.cshtml",
+              "RelativeDocumentMoniker": "Movie-App-Web\\Pages\\Logout.cshtml",
+              "ToolTip": "C:\\Users\\hrist\\OneDrive\\Hristo-CSharp-Portfolio-Advanced-4\\Movie-App-Web(still in work)\\Movie-App-Web\\Pages\\Logout.cshtml",
+              "RelativeToolTip": "Movie-App-Web\\Pages\\Logout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-30T13:17:15.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\hrist\\OneDrive\\Hristo-CSharp-Portfolio-Advanced-4\\Movie-App-Web(still in work)\\Movie-App-Web\\Pages\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "Movie-App-Web\\Pages\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\hrist\\OneDrive\\Hristo-CSharp-Portfolio-Advanced-4\\Movie-App-Web(still in work)\\Movie-App-Web\\Pages\\Register.cshtml.cs",
+              "RelativeToolTip": "Movie-App-Web\\Pages\\Register.cshtml.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T13:16:49.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hrist\\OneDrive\\Hristo-CSharp-Portfolio-Advanced-4\\Movie-App-Web(still in work)\\Movie-App-Web\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Movie-App-Web\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hrist\\OneDrive\\Hristo-CSharp-Portfolio-Advanced-4\\Movie-App-Web(still in work)\\Movie-App-Web\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Movie-App-Web\\Pages\\Index.cshtml",
+              "ViewState": "AgIAADIAAAAAAAAAAADwv0cAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-30T13:12:48.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\hrist\\OneDrive\\Hristo-CSharp-Portfolio-Advanced-4\\Movie-App-Web(still in work)\\Movie-App-Web\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Movie-App-Web\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\hrist\\OneDrive\\Hristo-CSharp-Portfolio-Advanced-4\\Movie-App-Web(still in work)\\Movie-App-Web\\Models\\User.cs",
+              "RelativeToolTip": "Movie-App-Web\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T13:12:01.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Logout.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\hrist\\OneDrive\\Hristo-CSharp-Portfolio-Advanced-4\\Movie-App-Web(still in work)\\Movie-App-Web\\Pages\\Logout.cshtml.cs",
+              "RelativeDocumentMoniker": "Movie-App-Web\\Pages\\Logout.cshtml.cs",
+              "ToolTip": "C:\\Users\\hrist\\OneDrive\\Hristo-CSharp-Portfolio-Advanced-4\\Movie-App-Web(still in work)\\Movie-App-Web\\Pages\\Logout.cshtml.cs",
+              "RelativeToolTip": "Movie-App-Web\\Pages\\Logout.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T13:17:26.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\hrist\\OneDrive\\Hristo-CSharp-Portfolio-Advanced-4\\Movie-App-Web(still in work)\\Movie-App-Web\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Movie-App-Web\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\hrist\\OneDrive\\Hristo-CSharp-Portfolio-Advanced-4\\Movie-App-Web(still in work)\\Movie-App-Web\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "Movie-App-Web\\Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAADwv1MAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T13:13:02.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hrist\\OneDrive\\Hristo-CSharp-Portfolio-Advanced-4\\Movie-App-Web(still in work)\\Movie-App-Web\\Program.cs",
+              "RelativeDocumentMoniker": "Movie-App-Web\\Program.cs",
+              "ToolTip": "C:\\Users\\hrist\\OneDrive\\Hristo-CSharp-Portfolio-Advanced-4\\Movie-App-Web(still in work)\\Movie-App-Web\\Program.cs",
+              "RelativeToolTip": "Movie-App-Web\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T13:17:44.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\hrist\\OneDrive\\Hristo-CSharp-Portfolio-Advanced-4\\Movie-App-Web(still in work)\\Movie-App-Web\\Pages\\Register.cshtml",
+              "RelativeDocumentMoniker": "Movie-App-Web\\Pages\\Register.cshtml",
+              "ToolTip": "C:\\Users\\hrist\\OneDrive\\Hristo-CSharp-Portfolio-Advanced-4\\Movie-App-Web(still in work)\\Movie-App-Web\\Pages\\Register.cshtml",
+              "RelativeToolTip": "Movie-App-Web\\Pages\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-30T13:16:35.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\hrist\\OneDrive\\Hristo-CSharp-Portfolio-Advanced-4\\Movie-App-Web(still in work)\\Movie-App-Web\\Pages\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "Movie-App-Web\\Pages\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\hrist\\OneDrive\\Hristo-CSharp-Portfolio-Advanced-4\\Movie-App-Web(still in work)\\Movie-App-Web\\Pages\\Login.cshtml.cs",
+              "RelativeToolTip": "Movie-App-Web\\Pages\\Login.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T13:16:20.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\hrist\\OneDrive\\Hristo-CSharp-Portfolio-Advanced-4\\Movie-App-Web(still in work)\\Movie-App-Web\\Pages\\Login.cshtml",
+              "RelativeDocumentMoniker": "Movie-App-Web\\Pages\\Login.cshtml",
+              "ToolTip": "C:\\Users\\hrist\\OneDrive\\Hristo-CSharp-Portfolio-Advanced-4\\Movie-App-Web(still in work)\\Movie-App-Web\\Pages\\Login.cshtml",
+              "RelativeToolTip": "Movie-App-Web\\Pages\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-30T13:16:07.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\hrist\\OneDrive\\Hristo-CSharp-Portfolio-Advanced-4\\Movie-App-Web(still in work)\\Movie-App-Web\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Movie-App-Web\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\hrist\\OneDrive\\Hristo-CSharp-Portfolio-Advanced-4\\Movie-App-Web(still in work)\\Movie-App-Web\\Services\\UserService.cs",
+              "RelativeToolTip": "Movie-App-Web\\Services\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T13:12:32.57Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

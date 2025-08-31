@@ -1,0 +1,22 @@
+﻿@page
+@model MovieApp.Pages.LoginModel
+@{
+    Layout = "_Layout";
+}
+
+<div class="container mt-5">
+    <h2>Login</h2>
+    <form method="post">
+        <div class="mb-3">
+            <label>Username</label>
+            <input asp-for="Username" class="form-control" />
+        </div>
+        <div class="mb-3">
+            <label>Password</label>
+            <input asp-for="Password" type="password" class="form-control" />
+        </div>
+        <button type="submit" class="btn btn-primary">Login</button>
+    </form>
+    <p class="mt-2">Don’t have an account? <a href="/Register">Register here</a></p>
+    <p class="text-danger">@Model.ErrorMessage</p>
+</div>

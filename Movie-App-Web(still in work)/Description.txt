@@ -1,0 +1,2 @@
+Description:
+Web application built with ASP.NET Core Razor Pages that integrates with the OMDb API. Users can register, log in, search for movies, and manage a personal favorites list with persistent storage in JSON.

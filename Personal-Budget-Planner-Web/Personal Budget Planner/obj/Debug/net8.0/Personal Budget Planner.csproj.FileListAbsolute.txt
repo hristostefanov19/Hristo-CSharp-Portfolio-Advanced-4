@@ -1,0 +1,33 @@
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Personal Budget Planner\Personal Budget Planner\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Personal Budget Planner\Personal Budget Planner\obj\Debug\net8.0\Personal Budget Planner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Personal Budget Planner\Personal Budget Planner\obj\Debug\net8.0\Personal Budget Planner.AssemblyInfoInputs.cache
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Personal Budget Planner\Personal Budget Planner\obj\Debug\net8.0\Personal Budget Planner.AssemblyInfo.cs
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Personal Budget Planner\Personal Budget Planner\obj\Debug\net8.0\Personal Budget Planner.csproj.CoreCompileInputs.cache
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Personal Budget Planner\Personal Budget Planner\obj\Debug\net8.0\Personal Budget Planner.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Personal Budget Planner\Personal Budget Planner\obj\Debug\net8.0\Personal Budget Planner.RazorAssemblyInfo.cache
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Personal Budget Planner\Personal Budget Planner\obj\Debug\net8.0\Personal Budget Planner.RazorAssemblyInfo.cs
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Personal Budget Planner\Personal Budget Planner\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Personal Budget Planner\Personal Budget Planner\bin\Debug\net8.0\appsettings.json
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Personal Budget Planner\Personal Budget Planner\bin\Debug\net8.0\Personal Budget Planner.staticwebassets.runtime.json
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Personal Budget Planner\Personal Budget Planner\bin\Debug\net8.0\Personal Budget Planner.staticwebassets.endpoints.json
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Personal Budget Planner\Personal Budget Planner\bin\Debug\net8.0\Personal Budget Planner.exe
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Personal Budget Planner\Personal Budget Planner\bin\Debug\net8.0\Personal Budget Planner.deps.json
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Personal Budget Planner\Personal Budget Planner\bin\Debug\net8.0\Personal Budget Planner.runtimeconfig.json
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Personal Budget Planner\Personal Budget Planner\bin\Debug\net8.0\Personal Budget Planner.dll
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Personal Budget Planner\Personal Budget Planner\bin\Debug\net8.0\Personal Budget Planner.pdb
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Personal Budget Planner\Personal Budget Planner\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Personal Budget Planner\Personal Budget Planner\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Personal Budget Planner\Personal Budget Planner\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Personal Budget Planner\Personal Budget Planner\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Personal Budget Planner\Personal Budget Planner\obj\Debug\net8.0\scopedcss\bundle\Personal Budget Planner.styles.css
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Personal Budget Planner\Personal Budget Planner\obj\Debug\net8.0\scopedcss\projectbundle\Personal Budget Planner.bundle.scp.css
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Personal Budget Planner\Personal Budget Planner\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Personal Budget Planner\Personal Budget Planner\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Personal Budget Planner\Personal Budget Planner\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Personal Budget Planner\Personal Budget Planner\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Personal Budget Planner\Personal Budget Planner\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Personal Budget Planner\Personal Budget Planner\obj\Debug\net8.0\Personal Budget Planner.dll
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Personal Budget Planner\Personal Budget Planner\obj\Debug\net8.0\refint\Personal Budget Planner.dll
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Personal Budget Planner\Personal Budget Planner\obj\Debug\net8.0\Personal Budget Planner.pdb
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Personal Budget Planner\Personal Budget Planner\obj\Debug\net8.0\Personal Budget Planner.genruntimeconfig.cache
+C:\Users\hrist\OneDrive\Работен плот\C# from zero\Personal Budget Planner\Personal Budget Planner\obj\Debug\net8.0\ref\Personal Budget Planner.dll

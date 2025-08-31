@@ -1,0 +1,2 @@
+Description:
+A C# WPF application for managing personal finances. Users can add income and expenses, track balance, and analyze spending habits. Demonstrates CRUD operations, data binding, and desktop application design.

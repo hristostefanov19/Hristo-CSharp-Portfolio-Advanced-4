@@ -1,0 +1,2 @@
+Description:
+Real-time chat application built with ASP.NET Core SignalR. Allows multiple users to connect, send messages instantly, and view who is online. Demonstrates WebSocket communication and live user interaction.
